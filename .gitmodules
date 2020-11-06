@@ -1,0 +1,3 @@
+[submodule "ssh-com"]
+	path = ssh-com
+	url = https://github.com/grandonymous/ssh-com
